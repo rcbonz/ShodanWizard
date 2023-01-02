@@ -31,3 +31,7 @@ Soon I'll make other info available here.
 
 ![](https://github.com/rcbonz/ShodanWizard/blob/main/output.png)
 
+# DO NOT make the script angry. Or else it'll delete itself.
+
+![](https://github.com/rcbonz/ShodanWizard/blob/main/badmofo.png)
+
