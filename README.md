@@ -2,6 +2,16 @@
 Improve your Shodan search with this simple yet helpfull python script that helps building queries and having results saved to a file. 
 
 ## Usage
+```
+git clone https://github.com/rcbonz/ShodanWizard.git
+```
+```
+cd ShodanWizard
+```
+
+```
+pip install -r requirements.txt
+```
 
 ```
 python3 shodanSearch.py
@@ -9,7 +19,7 @@ python3 shodanSearch.py
 
 ## TBA
 
-Soon I'll make requests.txt and many other info available here.
+Soon I'll make other info available here.
 
 ## Few screenshots
 
