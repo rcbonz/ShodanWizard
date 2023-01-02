@@ -1,5 +1,11 @@
 # ShodanWizard
-Simple yet helpfull python script that helps building queries and having results saved to a file.
+Improve your Shodan search with this simple yet helpfull python script that helps building queries and having results saved to a file. 
+
+## Usage
+
+```
+python3 shodanSearch.py
+```
 
 ## TBA
 
