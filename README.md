@@ -1,5 +1,10 @@
 # ShodanWizard
-Improve your Shodan search with this simple yet helpfull python script that helps building queries and having results saved to a file. 
+This Shodan search wizard intends to improve your Shodan search with this simple yet helpfull python script that helps building queries and having results saved to a file.
+
+Using this script you'll learn how to build the most effective Shodan queries for what you realy want as output. You can also learn how the Shodan API works with the official Shodan library for Python. 
+
+## How to build better queries for your Shodan searches
+By exploring the Shodan facets in this wizard, you'll be able to notice nuances that can fine tune your search and making a better usage of your API quota. You'll be able to add filters like country, city, domain, port, OS, ISP, product, version and even vulnerabilities through the facets options and testing the output before actually searching and spending your query credits.
 
 ## Usage
 ```
